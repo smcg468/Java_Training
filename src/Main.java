@@ -25,8 +25,14 @@ import java.util.Stack;
 public class Main {
 
     public static void main ( String [] args) {
+
+        // Remove Duplicates
         String s = "AABABAAB";
         System.out.println(removeDuplicates.removeDuplicates(s));
+
+        // Max Profit
+        int[] prices = {7,2,1,5,3,9,4};
+        System.out.println(maxProfit.maxProfit(prices));
     }
 
 }
