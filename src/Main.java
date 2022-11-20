@@ -19,8 +19,7 @@ Input: s = "azxxzy"
 Output: "ay"
 */
 
-import java.util.ArrayList;
-import java.util.Stack;
+import java.util.Arrays;
 
 public class Main {
 
@@ -33,6 +32,12 @@ public class Main {
         // Max Profit
         int[] prices = {7,2,1,5,3,9,4};
         System.out.println(maxProfit.maxProfit(prices));
+
+        // Reverse Array
+        int[] arr = {2, 7 , 11 ,15};
+        reverseArray.reverseArray(arr);
+        System.out.println(Arrays.toString(arr));
+
     }
 
 }
