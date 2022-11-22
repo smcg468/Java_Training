@@ -27,16 +27,25 @@ public class Main {
 
         // Remove Duplicates
         String s = "AABABAAB";
-        System.out.println(removeDuplicates.removeDuplicates(s));
+        // System.out.println(removeDuplicates.removeDuplicates(s));
 
         // Max Profit
         int[] prices = {7,2,1,5,3,9,4};
-        System.out.println(maxProfit.maxProfit(prices));
+        // System.out.println(maxProfit.maxProfit(prices));
 
         // Reverse Array
         int[] arr = {2, 7 , 11 ,15};
-        reverseArray.reverseArray(arr);
-        System.out.println(Arrays.toString(arr));
+        // reverseArray.reverseArray(arr);
+        // System.out.println(Arrays.toString(arr));
+
+        // Two Sum
+        int[] nums = {2, 7 , 11 ,15};
+        int target = 9;
+
+        twoSum.twoSum(nums,target);
+        System.out.println(Arrays.toString(nums));
+
+
 
     }
 
