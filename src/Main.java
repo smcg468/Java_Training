@@ -39,11 +39,10 @@ public class Main {
         // System.out.println(Arrays.toString(arr));
 
         // Two Sum
-        int[] nums = {2, 7 , 11 ,15};
-        int target = 9;
+        int[] nums = {2, 7 ,50, 50,11 ,15};
+        int target = 100;
 
-        twoSum.twoSum(nums,target);
-        System.out.println(Arrays.toString(nums));
+        System.out.println(Arrays.toString(twoSum.twoSum(nums,target)));
 
 
 
