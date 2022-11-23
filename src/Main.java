@@ -41,8 +41,11 @@ public class Main {
         // Two Sum
         int[] nums = {2, 7 ,50, 50,11 ,15};
         int target = 100;
+        // System.out.println(Arrays.toString(twoSum.twoSum(nums,target)));
 
-        System.out.println(Arrays.toString(twoSum.twoSum(nums,target)));
+        //Palindrome
+        int x = 1001;
+        System.out.println(Palindrome.Palindrome(x));
 
 
 
