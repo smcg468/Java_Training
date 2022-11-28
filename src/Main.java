@@ -39,14 +39,21 @@ public class Main {
         // System.out.println(Arrays.toString(arr));
 
         // Two Sum
-        int[] nums = {2, 7 ,50, 50,11 ,15};
-        int target = 100;
+        // int[] nums = {2, 7 ,50, 50,11 ,15};
+        // int target = 100;
         // System.out.println(Arrays.toString(twoSum.twoSum(nums,target)));
 
         //Palindrome
         int x = 1001;
-        System.out.println(Palindrome.Palindrome(x));
+        // System.out.println(Palindrome.Palindrome(x));
 
+
+        int num = 8271662;
+        //System.out.println(LargestNum.largestNum(num));
+
+        int[] nums = {2, 7 ,50, 80};
+        int target = 67;
+        System.out.println(searchInsertPosition.searchInsert(nums, target));
 
 
     }
