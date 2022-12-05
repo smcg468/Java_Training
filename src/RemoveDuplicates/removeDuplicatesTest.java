@@ -1,10 +1,12 @@
+package RemoveDuplicates;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class LargestNumTest {
+class removeDuplicatesTest {
 
     @Test
-    void largestNum() {
+    void removeDuplicates() {
     }
 }

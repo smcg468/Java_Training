@@ -1,10 +1,12 @@
+package ReverseArray;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class maxProfitTest {
+class reverseArrayTest {
 
     @Test
-    void maxProfit() {
+    void reverseArray() {
     }
 }

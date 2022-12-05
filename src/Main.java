@@ -19,7 +19,8 @@ Input: s = "azxxzy"
 Output: "ay"
 */
 
-import java.util.Arrays;
+import InsertPosition.searchInsertPosition;
+import ShortestDistance.shortestDistanceToChar;
 
 public class Main {
 
@@ -27,34 +28,38 @@ public class Main {
 
         // Remove Duplicates
         String s = "AABABAAB";
-        // System.out.println(removeDuplicates.removeDuplicates(s));
+        // System.out.println(RemoveDuplicates.removeDuplicates.RemoveDuplicates.removeDuplicates(s));
 
         // Max Profit
         int[] prices = {7,2,1,5,3,9,4};
-        // System.out.println(maxProfit.maxProfit(prices));
+        // System.out.println(MaxProfit.maxProfit.MaxProfit.maxProfit(prices));
 
         // Reverse Array
         int[] arr = {2, 7 , 11 ,15};
-        // reverseArray.reverseArray(arr);
+        // ReverseArray.reverseArray.ReverseArray.reverseArray(arr);
         // System.out.println(Arrays.toString(arr));
 
         // Two Sum
         // int[] nums = {2, 7 ,50, 50,11 ,15};
         // int target = 100;
-        // System.out.println(Arrays.toString(twoSum.twoSum(nums,target)));
+        // System.out.println(Arrays.toString(TwoSum.twoSum.TwoSum.twoSum(nums,target)));
 
-        //Palindrome
+        //Palindrome.Palindrome
         int x = 1001;
-        // System.out.println(Palindrome.Palindrome(x));
+        // System.out.println(Palindrome.Palindrome.Palindrome.Palindrome(x));
 
 
         int num = 8271662;
-        //System.out.println(LargestNum.largestNum(num));
+        //System.out.println(LargestNum.LargestNum.largestNum(num));
 
         int[] nums = {2, 7 ,50, 80};
         int target = 67;
         System.out.println(searchInsertPosition.searchInsert(nums, target));
 
+
+        String st = "sjdhhfkdl";
+        char c = 'c';
+        System.out.println(shortestDistanceToChar.shortestDistanceToChar(st, c));
 
     }
 

@@ -1,10 +1,12 @@
+package MaxProfit;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class searchInsertPositionTest {
+class maxProfitTest {
 
     @Test
-    void searchInsert() {
+    void maxProfit() {
     }
 }

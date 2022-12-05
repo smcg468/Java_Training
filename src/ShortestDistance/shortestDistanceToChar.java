@@ -1,4 +1,4 @@
-
+package ShortestDistance;
 
 public class shortestDistanceToChar {
     public static int[] shortestDistanceToChar(String st, char c) {

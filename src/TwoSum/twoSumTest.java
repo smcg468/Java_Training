@@ -1,10 +1,12 @@
+package TwoSum;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class removeDuplicatesTest {
+class twoSumTest {
 
     @Test
-    void removeDuplicates() {
+    void twoSum() {
     }
 }

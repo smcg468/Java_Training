@@ -1,4 +1,4 @@
-/*
+package ReverseArray;/*
 
 Given an array the task is to reverse the array.
 Examples :
