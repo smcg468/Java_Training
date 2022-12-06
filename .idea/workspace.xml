@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="22ddb244-02b9-47a0-a568-6ee7cab01a70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxProfit.java" afterDir="false" />
+    <list default="true" id="22ddb244-02b9-47a0-a568-6ee7cab01a70" name="Default Changelist" comment="Search Insert Position">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/LargestNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/LargestNumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Training/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/PalindromeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/maxProfit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/maxProfitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/nextBiggerNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/removeDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/removeDuplicatesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/reverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/reverseArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/searchInsertPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/searchInsertPositionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/shortestDistanceToChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/shortestDistanceToCharTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/twoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/twoSumTest.class" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,29 +36,46 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HVbe2hu11m85wrn9rdGIsaYUk6" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ValidParenthesis" />
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.validParenthesisTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java_Training" />
@@ -47,12 +83,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LargestNumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Training" />
+      <option name="PACKAGE_NAME" value="LargestNum" />
+      <option name="MAIN_CLASS_NAME" value="LargestNum.LargestNumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maxProfitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MaxProfit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MaxProfit" />
+      <option name="MAIN_CLASS_NAME" value="MaxProfit.maxProfitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="validParenthesisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ValidParenthesis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ValidParenthesis" />
+      <option name="MAIN_CLASS_NAME" value="ValidParenthesis.validParenthesisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.validParenthesisTest" />
+        <item itemvalue="JUnit.maxProfitTest" />
+        <item itemvalue="JUnit.LargestNumTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -64,6 +143,91 @@
       <option name="presentableId" value="Default" />
       <updated>1668373289410</updated>
     </task>
+    <task id="LOCAL-00001" summary="Reverse Array Iteratively">
+      <created>1668949606771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668949606772</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Two Sum">
+      <created>1669155402849</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669155402849</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Two Sum Updated to return index instead of contents">
+      <created>1669219397173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669219397173</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Palindrome Number">
+      <created>1669235666523</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669235666523</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Largest Possible Number">
+      <created>1669650218142</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669650218142</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Search Insert Position">
+      <created>1669663787869</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669663787869</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Search Insert Position Instructions added">
+      <created>1669663993456</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669663993456</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Shortest Distance to Character 1/2">
+      <created>1669761292464</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669761292464</updated>
+    </task>
+    <task id="LOCAL-00009" summary="JUnit Test Templates Added">
+      <created>1670196608428</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670196608428</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Folder Structure Updated and LargestNum JUnit Tests added">
+      <created>1670268221574</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670268221574</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Max Profit JUnit Tests">
+      <created>1670270820195</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670270820195</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Valid Parenthesis with JUnit Tests">
+      <created>1670329355302</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670329355302</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +240,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reverse Array Iteratively" />
+    <MESSAGE value="Two Sum" />
+    <MESSAGE value="Two Sum Updated to return index instead of contents" />
+    <MESSAGE value="Palindrome Number" />
+    <MESSAGE value="Largest Possible Number" />
+    <MESSAGE value="Search Insert Position" />
+    <MESSAGE value="Search Insert Position Instructions added" />
+    <MESSAGE value="Shortest Distance to Character 1/2" />
+    <MESSAGE value="JUnit Test Templates Added" />
+    <MESSAGE value="Folder Structure Updated and LargestNum JUnit Tests added" />
+    <MESSAGE value="Max Profit JUnit Tests" />
+    <MESSAGE value="Valid Parenthesis with JUnit Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Valid Parenthesis with JUnit Tests" />
   </component>
 </project>
