@@ -45,4 +45,5 @@ class validParenthesisTest {
     void MultipleMissingParenthesis() {
         assertFalse(validParenthesis.validParenthesis("()((((()()))"));
     }
+
 }
