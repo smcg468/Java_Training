@@ -22,6 +22,8 @@ Output: "ay"
 import InsertPosition.searchInsertPosition;
 import ShortestDistance.shortestDistanceToChar;
 
+import java.util.Arrays;
+
 public class Main {
 
     public static void main ( String [] args) {
@@ -44,22 +46,22 @@ public class Main {
         // int target = 100;
         // System.out.println(Arrays.toString(TwoSum.twoSum.TwoSum.twoSum(nums,target)));
 
-        //Palindrome.Palindrome
+        // Palindrome.Palindrome
         int x = 1001;
         // System.out.println(Palindrome.Palindrome.Palindrome.Palindrome(x));
 
 
         int num = 8271662;
-        //System.out.println(LargestNum.LargestNum.largestNum(num));
+        // System.out.println(LargestNum.LargestNum.largestNum(num));
 
         int[] nums = {2, 7 ,50, 80};
         int target = 67;
-        System.out.println(searchInsertPosition.searchInsert(nums, target));
+        // System.out.println(searchInsertPosition.searchInsert(nums, target));
 
 
         String st = "sjdhhfkdl";
         char c = 'c';
-        System.out.println(shortestDistanceToChar.shortestDistanceToChar(st, c));
+        //System.out.println(Arrays.toString(shortestDistanceToChar.shortestDistanceToChar(st, c)));
 
     }
 
