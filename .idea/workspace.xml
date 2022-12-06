@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22ddb244-02b9-47a0-a568-6ee7cab01a70" name="Default Changelist" comment="Search Insert Position">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/LargestNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/LargestNumTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Training/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/PalindromeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/maxProfit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/maxProfitTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/nextBiggerNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/removeDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/removeDuplicatesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/reverseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/reverseArrayTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/searchInsertPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/searchInsertPositionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/shortestDistanceToChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/shortestDistanceToCharTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/twoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Training/twoSumTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670329355302</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Valid Parenthesis">
+      <created>1670355703780</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670355703780</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +241,7 @@
     <MESSAGE value="Folder Structure Updated and LargestNum JUnit Tests added" />
     <MESSAGE value="Max Profit JUnit Tests" />
     <MESSAGE value="Valid Parenthesis with JUnit Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Valid Parenthesis with JUnit Tests" />
+    <MESSAGE value="Valid Parenthesis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Valid Parenthesis" />
   </component>
 </project>
