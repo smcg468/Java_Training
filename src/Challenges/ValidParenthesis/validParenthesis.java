@@ -1,4 +1,4 @@
-package ValidParenthesis;
+package Challenges.ValidParenthesis;
 
 import java.util.Stack;
 
@@ -13,15 +13,13 @@ public class validParenthesis {
         String [] eachParenthesis = s.split("");
         Stack<String> stack = new Stack<>();
 
-        for (int index = 0; index < eachParenthesis.length; index++){
-            if (eachParenthesis[index].equals("(")){
+        for (String parenthesis : eachParenthesis) {
+            if (parenthesis.equals("(")) {
                 stack.push("(");
-            }
-            else if (eachParenthesis[index].equals(")")){
+            } else if (parenthesis.equals(")")) {
                 if (!stack.empty()) {
                     stack.pop();
-                }
-                else {
+                } else {
                     return false;
                 }
             }

@@ -1,4 +1,4 @@
-package ValidParenthesis;
+package Challenges.ValidParenthesis;
 
 import org.junit.jupiter.api.Test;
 
