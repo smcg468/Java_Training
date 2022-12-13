@@ -1,4 +1,4 @@
-package TwoSum;/*
+package Challenges.TwoSum;/*
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -19,8 +19,6 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
  */
 
-
-import java.util.Arrays;
 
 public class twoSum {
 

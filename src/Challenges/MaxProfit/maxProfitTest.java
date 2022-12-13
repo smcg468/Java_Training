@@ -1,4 +1,4 @@
-package MaxProfit;
+package Challenges.MaxProfit;
 
 import org.junit.jupiter.api.Test;
 

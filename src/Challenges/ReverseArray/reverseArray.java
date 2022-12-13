@@ -1,4 +1,4 @@
-package ReverseArray;/*
+package Challenges.ReverseArray;/*
 
 Given an array the task is to reverse the array.
 Examples :

@@ -1,6 +1,6 @@
-package LargestNum;
+package Challenges.LargestNum;
 
-import LargestNum.LargestNum;
+import Challenges.LargestNum.LargestNum;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

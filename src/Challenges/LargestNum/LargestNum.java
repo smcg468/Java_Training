@@ -1,4 +1,4 @@
-package LargestNum;/*
+package Challenges.LargestNum;/*
 Create a function that takes a positive integer and returns the largest possible number that can be made with the digits
 
 351 = 531

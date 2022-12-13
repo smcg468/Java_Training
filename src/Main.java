@@ -19,10 +19,7 @@ Input: s = "azxxzy"
 Output: "ay"
 */
 
-import InsertPosition.searchInsertPosition;
-import ShortestDistance.shortestDistanceToChar;
-
-import java.util.Arrays;
+import Challenges.InsertPosition.searchInsertPosition;
 
 public class Main {
 
@@ -30,29 +27,29 @@ public class Main {
 
         // Remove Duplicates
         String s = "AABABAAB";
-        // System.out.println(RemoveDuplicates.removeDuplicates.RemoveDuplicates.removeDuplicates(s));
+        // System.out.println(Challenges.RemoveDuplicates.removeDuplicates.Challenges.RemoveDuplicates.removeDuplicates(s));
 
         // Max Profit
         int[] prices = {7,2,1,5,3,9,4};
-        // System.out.println(MaxProfit.maxProfit.MaxProfit.maxProfit(prices));
+        // System.out.println(Challenges.MaxProfit.maxProfit.Challenges.MaxProfit.maxProfit(prices));
 
         // Reverse Array
         int[] arr = {2, 7 , 11 ,15};
-        // ReverseArray.reverseArray.ReverseArray.reverseArray(arr);
+        // Challenges.ReverseArray.reverseArray.Challenges.ReverseArray.reverseArray(arr);
         // System.out.println(Arrays.toString(arr));
 
         // Two Sum
         // int[] nums = {2, 7 ,50, 50,11 ,15};
         // int target = 100;
-        // System.out.println(Arrays.toString(TwoSum.twoSum.TwoSum.twoSum(nums,target)));
+        // System.out.println(Arrays.toString(Challenges.TwoSum.twoSum.Challenges.TwoSum.twoSum(nums,target)));
 
-        // Palindrome.Palindrome
+        // Challenges.Palindrome.Challenges.Palindrome
         int x = 1001;
-        // System.out.println(Palindrome.Palindrome.Palindrome.Palindrome(x));
+        // System.out.println(Challenges.Palindrome.Challenges.Palindrome.Challenges.Palindrome.Challenges.Palindrome(x));
 
 
         int num = 8271662;
-        // System.out.println(LargestNum.LargestNum.largestNum(num));
+        // System.out.println(Challenges.LargestNum.Challenges.LargestNum.largestNum(num));
 
         int[] nums = {2, 7 ,50, 80};
         int target = 67;

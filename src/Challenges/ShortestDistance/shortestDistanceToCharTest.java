@@ -1,8 +1,6 @@
-package ShortestDistance;
+package Challenges.ShortestDistance;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class shortestDistanceToCharTest {
 
