@@ -30,10 +30,15 @@ public class LengthOfLastWord {
 
         int length = 0;
 
-        String [] stringSplit = s.split(s);
-        int lastWord = stringSplit.length;
+        String [] stringSplit = s.split(" ");
 
-        char [] lastWordSplit = stringSplit[lastWord].toCharArray();
+        if (stringSplit.length == 0) {
+            return 0;
+        }
+
+        String lastWord = stringSplit[stringSplit.length-1];
+
+        char [] lastWordSplit = lastWord.toCharArray();
 
         for (char letter : lastWordSplit){
             length++;
