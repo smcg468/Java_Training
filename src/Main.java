@@ -20,45 +20,11 @@ Output: "ay"
 */
 
 import Challenges.InsertPosition.searchInsertPosition;
+import Challenges.LengthOfLastWord.LengthOfLastWord;
 
 public class Main {
 
     public static void main ( String [] args) {
-
-        // Remove Duplicates
-        String s = "AABABAAB";
-        // System.out.println(Challenges.RemoveDuplicates.removeDuplicates.Challenges.RemoveDuplicates.removeDuplicates(s));
-
-        // Max Profit
-        int[] prices = {7,2,1,5,3,9,4};
-        // System.out.println(Challenges.MaxProfit.maxProfit.Challenges.MaxProfit.maxProfit(prices));
-
-        // Reverse Array
-        int[] arr = {2, 7 , 11 ,15};
-        // Challenges.ReverseArray.reverseArray.Challenges.ReverseArray.reverseArray(arr);
-        // System.out.println(Arrays.toString(arr));
-
-        // Two Sum
-        // int[] nums = {2, 7 ,50, 50,11 ,15};
-        // int target = 100;
-        // System.out.println(Arrays.toString(Challenges.TwoSum.twoSum.Challenges.TwoSum.twoSum(nums,target)));
-
-        // Challenges.Palindrome.Challenges.Palindrome
-        int x = 1001;
-        // System.out.println(Challenges.Palindrome.Challenges.Palindrome.Challenges.Palindrome.Challenges.Palindrome(x));
-
-
-        int num = 8271662;
-        // System.out.println(Challenges.LargestNum.Challenges.LargestNum.largestNum(num));
-
-        int[] nums = {2, 7 ,50, 80};
-        int target = 67;
-        // System.out.println(searchInsertPosition.searchInsert(nums, target));
-
-
-        String st = "sjdhhfkdl";
-        char c = 'c';
-        //System.out.println(Arrays.toString(shortestDistanceToChar.shortestDistanceToChar(st, c)));
 
     }
 
