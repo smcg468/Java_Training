@@ -1,4 +1,4 @@
-# Java_Training
+# java-training
 
 This is a repository consisting of Java challenges and learning material to further enhance my knowledge of the Java programming language.
 
