@@ -32,14 +32,13 @@ public class Palindrome {
         Integer reverse = 0;
         Integer current = x;
 
-        while ( current != 0 ) {
+        while (current != 0) {
             int i = current % 10;
             reverse = reverse * 10 + i;
             current = current / 10;
         }
 
         return reverse.equals(x);
-
     }
 
 }
